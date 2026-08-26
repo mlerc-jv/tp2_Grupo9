@@ -7,12 +7,12 @@ public class Ejercicio3 {
 		final int CODIGO_POSTAL_JUJUY = 4600;
         final double PI = 3.1415926535;
         final int DIAS_SEMANA = 7;
-        final int MESES_AÑO = 12;
+        final int MESES_YEAR = 12;
 
-        System.out.println("Código postal de Jujuy: " + CODIGO_POSTAL_JUJUY);
+        System.out.println("Codigo postal de Jujuy: " + CODIGO_POSTAL_JUJUY);
         System.out.println("Valor de PI: " + PI);
-        System.out.println("Cantidad de días de la semana: " + DIAS_SEMANA);
-        System.out.println("Cantidad de meses del año: " + MESES_AÑO);
+        System.out.println("Cantidad de dias de la semana: " + DIAS_SEMANA);
+        System.out.println("Cantidad de meses del año: " + MESES_YEAR);
 	}
 
 }
