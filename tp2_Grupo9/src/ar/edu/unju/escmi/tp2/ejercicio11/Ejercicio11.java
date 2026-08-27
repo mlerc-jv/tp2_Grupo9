@@ -9,13 +9,13 @@ public class Ejercicio11 {
         Scanner scanner = new Scanner(System.in);
         
         for (int i = 1; i <= 5; i++) {
-            System.out.print("Ingrese el número " + i + ": ");
+            System.out.print("Ingrese el numero " + i + ": ");
             int numero = scanner.nextInt();
             
             if (numero % 2 == 0) {
-                System.out.println(numero + " es un número par.");
+                System.out.println(numero + " es un numero par.");
             } else {
-                System.out.println(numero + " es un número impar.");
+                System.out.println(numero + " es un numero impar.");
             }
         }
         
