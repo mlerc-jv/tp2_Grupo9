@@ -8,13 +8,13 @@ public class Ejercicio6 {
         
         Scanner scanner = new Scanner(System.in);
         
-        System.out.print("Ingrese el radio del círculo (valor entre -128 y 127): ");
+        System.out.print("Ingrese el radio del circulo (valor entre -128 y 127): ");
         byte radio = scanner.nextByte();
         
         double area = Math.PI * Math.pow(radio, 2);
         
-        System.out.println("El área del círculo con radio " + radio + " es: " + area);
+        System.out.println("El area del circulo con radio " + radio + " es: " + area);
         
         scanner.close();
     }
-}S
+}

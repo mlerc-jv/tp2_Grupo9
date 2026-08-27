@@ -1,4 +1,4 @@
-package ar.edu.unju.escmi.tp2.ejercicio1;
+package ar.edu.unju.escmi.tp2.ejercicio1b;
 
 import java.time.LocalDate;
 
@@ -20,12 +20,12 @@ public class Ejercicio1 {
         System.out.println("DNI: " + dni);
         System.out.println("Letra de ejemplar del DNI: " + letraEjemplar);
         System.out.println("Edad del familiar: " + edadFamiliar + " años");
-        System.out.println("Prócer: " + nombreProcer);
-        System.out.println("Número de bingo: " + numeroBingo);
+        System.out.println("Procer: " + nombreProcer);
+        System.out.println("Numero de bingo: " + numeroBingo);
         System.out.println("Precio del celular: $" + precioCelular);
         System.out.println("Estatura: " + estatura + " m");
         System.out.println("Peso de la mascota: " + pesoMascota + " kg");
         System.out.println("Inicio 2do cuatrimestre: " + inicioCuatrimestre);
         System.out.println("Fin 2do cuatrimestre: " + finCuatrimestre);
     }
-}S
+}
